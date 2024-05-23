@@ -1,16 +1,5 @@
 # Learning-GSAP
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Scripts](#scripts)
-- [Dependencies](#dependencies)
-- [Development Dependencies](#development-dependencies)
-- [License](#license)
-
-## Introduction
 GSAP-CC-Starter is a boilerplate project for building interactive animations using GSAP with React and Vite. This starter kit integrates several GSAP plugins and tools to facilitate creating rich animations and scroll-triggered effects.
 
 ## Features
